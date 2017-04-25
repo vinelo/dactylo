@@ -1,0 +1,10 @@
+c:\users\administrateur\documents\visual studio 2015\Projects\Dactylo\Dactylo\bin\Debug\Dactylo.exe.config
+C:\Users\Administrateur\Desktop\dactylo\Dactylo\Dactylo\bin\Debug\Dactylo.exe.config
+C:\Users\Administrateur\Desktop\dactylo\Dactylo\Dactylo\bin\Debug\Dactylo.exe
+C:\Users\Administrateur\Desktop\dactylo\Dactylo\Dactylo\bin\Debug\Dactylo.pdb
+C:\Users\Administrateur\Desktop\dactylo\Dactylo\Dactylo\obj\Debug\Dactylo.csprojResolveAssemblyReference.cache
+C:\Users\Administrateur\Desktop\dactylo\Dactylo\Dactylo\obj\Debug\Dactylo.frmPrincipale.resources
+C:\Users\Administrateur\Desktop\dactylo\Dactylo\Dactylo\obj\Debug\Dactylo.Properties.Resources.resources
+C:\Users\Administrateur\Desktop\dactylo\Dactylo\Dactylo\obj\Debug\Dactylo.csproj.GenerateResource.Cache
+C:\Users\Administrateur\Desktop\dactylo\Dactylo\Dactylo\obj\Debug\Dactylo.exe
+C:\Users\Administrateur\Desktop\dactylo\Dactylo\Dactylo\obj\Debug\Dactylo.pdb
